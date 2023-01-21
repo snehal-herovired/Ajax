@@ -1,0 +1,35 @@
+<div class="blog-header">My first blog</div>
+          <div class="blog-author">By Samuel</div>
+          <div class="blog-body">
+            
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore magnam quasi dignissimos quas exercitationem dolorum totam similique velit consectetur labore.
+          
+</div>
+<div class="blog-header">My Second blog</div>
+          <div class="blog-author">By Samuel</div>
+          <div class="blog-body">
+            
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore magnam quasi dignissimos quas exercitationem dolorum totam similique velit consectetur labore.
+          
+</div>
+<div class="blog-header">My third blog</div>
+          <div class="blog-author">By Samuel</div>
+          <div class="blog-body">
+            
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore magnam quasi dignissimos quas exercitationem dolorum totam similique velit consectetur labore.
+          
+</div>
+<div class="blog-header">My fourht blog</div>
+          <div class="blog-author">By Samuel</div>
+          <div class="blog-body">
+            
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore magnam quasi dignissimos quas exercitationem dolorum totam similique velit consectetur labore.
+          
+</div>
+<div class="blog-header">My fiveth blog</div>
+          <div class="blog-author">By Samuel</div>
+          <div class="blog-body">
+            
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore magnam quasi dignissimos quas exercitationem dolorum totam similique velit consectetur labore.
+          
+</div>
